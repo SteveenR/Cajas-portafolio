@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    background-color: yellowgreen;
+    margin: 0;
+    padding: 0;
+}
+
+.cajauno {
+    background-color: black;
+    height: auto;
+}
+
+.logo {
+    background-color: aliceblue;
+    height: 60px;
+}
+
+.nav {
+    background-color: rgb(170, 214, 214);
+    height: 60px;
+}
+
+.desp {
+    background-color: burlywood;
+    height: 60px;
+}
+
+.descrip {
+    background-color: black;
+    height: 700px;
+}
+
+.galeria1 {
+    background-color: aqua;
+    height: 700px;
+}
+
+.cajatres {
+    background-color: black;
+    height: auto;
+}
+
+.descrip2 {
+    background-color: beige;
+    height: 700px;
+}
+
+.galeria2 {
+    background-color: azure;
+    height: 700px;
+}
+
+.cajacuatro {
+    background-color: black;
+    height: auto;
+}
+
+.descrip3 {
+    background-color: cadetblue;
+    height: 700px;
+}
+
+.galeria3 {
+    background-color: thistle;
+    height: 700px;
+}
+
+.cajacinco {
+    background-color: black;
+    height: auto;
+}
+
+.descrip4 {
+    background-color: wheat;
+    height: 700px;
+}
+
+.galeria4 {
+    background-color: yellow;
+    height: 700px;
+}
